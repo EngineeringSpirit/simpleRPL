@@ -1,4 +1,5 @@
-#!/bin/env python
+#!/usr/bin/env python
+
 # Tony Cheneau <tony.cheneau@nist.gov>
 
 # Conditions Of Use
